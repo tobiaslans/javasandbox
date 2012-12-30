@@ -49,7 +49,7 @@
 		document.write("My name is: " + name + "!" + "<br />");
 	}
 	
-	name("Tobias");
+	name("Tobbe");
 	name("Bjoern");
 	
 	document.write("<br />");

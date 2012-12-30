@@ -16,7 +16,7 @@
 			<key>filename</key>
 			<string>script.js</string>
 			<key>lastUsed</key>
-			<date>2012-12-13T09:57:04Z</date>
+			<date>2012-12-30T15:09:18Z</date>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
@@ -42,9 +42,9 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>1</integer>
+				<integer>23</integer>
 				<key>line</key>
-				<integer>73</integer>
+				<integer>36</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
